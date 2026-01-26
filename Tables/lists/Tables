@@ -10,3 +10,16 @@
         <li>List Item One</li>
         <li>List Item Two</li>
         <li>List Item Three</li>
+    
+<!--Table Example: -->
+<table>
+    <tr>
+        <th>Names</th>
+        <th>Instrument</th>
+        <th>Band</th>
+    <tr>
+        <td>Paul McCartney</td>
+        <td>Bass</td>
+        <td>The Beatles</td>
+    </tr>
+    

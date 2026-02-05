@@ -5,12 +5,12 @@
     <title>BaileyBueler</title>
 </head>
 
-<body 
-   <u1>
+<body
+   <ol>
         <li>List Item One</li>
         <li>List Item Two</li>
         <li>List Item Three</li>
-    
+    </ol>
 <!--Table Example: -->
 <table border="4px solid black">
     <tr>

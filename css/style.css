@@ -1,22 +1,22 @@
-body{
+body {
     background-color: #ffffff;
-    color: #0dbcc2;
+    color: #83e39f;
 }
 
-h1{
+h1 {
     text-align: center;
     color: #53995c;
 }
 
-h2{ 
-    color: #a6ece1;
-    font-style:italic;
+h2 {
+    color: #83e39f;
+    font-style: italic;
 }
 
-.class{
-    color: #0a5728;
+.header {
+    color: #53995c;
 }
 
 #id {
-    color: #000000;
+    color: #53995c;
 }

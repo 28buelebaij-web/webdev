@@ -1,6 +1,6 @@
 body {
     background-color: #ffffff;
-    color: #83e39f;
+    color: #116d2d;
 }
 
 h1 {
@@ -9,7 +9,7 @@ h1 {
 }
 
 h2 {
-    color: #83e39f;
+    color: #063d17;
     font-style: italic;
 }
 
@@ -19,4 +19,7 @@ h2 {
 
 #id {
     color: #53995c;
+}
+p {
+    color:#99dda2
 }

@@ -1,9 +1,30 @@
 .profile-card{
-    background-color: ligthgrey;
+    background-color: #baeeff;
     padding: 20px;
     margin: 20px;
-    border: 2px solid black;
+    border: 2px solid #001056;
     width: 300px;
     border-radius: 10px;
     font-family: Arial, sans-serif;
+}
+h2{
+    color: #00124c;
+    text-align: center;
+}
+#submit-btn{
+    background-color:#e7faff;
+    color:#0008ff;
+    padding: 10px 20px;
+    Border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.bio{
+    font-size: 14px;
+    margin-bottom: 20px;
+    line-height: 1.5;
+}
+
+#submit-btn:hover {
+    background-color: #03197b;
 }
